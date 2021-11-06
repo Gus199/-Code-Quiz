@@ -19,10 +19,10 @@ THEN I can save my initials and set my score on the board
 ## The following is a screenshot preview of the game
 
 ![screenShot1](./asset/images/screenShot000.png)
-![screenShot2](./asset/images/screenShot0000.png)
-![screenShot3](./asset/images/screenShot00.png)
-![screenShot4](./asset/images/screenShot0.png)
+![screenShot2](./asset/images/ScreenShot0000.png)
+![screenShot3](./asset/images/ScreenShot00.png)
+![screenShot4](./asset/images/ScreenShot0.png)
 ![screenShot5](./asset/images/screenshot1.png)
 ![screenShot6](./asset/images/screenshot2.png)
 ![screenShot7](./asset/images/screen3hot3.png)
-![screenShot8](./asset/images/screenShot4.png)
+![screenShot8](./asset/images/ScreenShot4.png)
