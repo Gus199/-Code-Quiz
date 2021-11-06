@@ -18,5 +18,5 @@ THEN I can save my initials and set my score on the board
 ```
 ## The following is a screenshot preview of the game
 
-![screenSho](./images/screenShot000.png)
+![screenSho](screenShot000.png)
 
