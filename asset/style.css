@@ -1,0 +1,145 @@
+
+.maindiv {
+    width: 80%;
+    margin-left: 10%;
+    content: center;
+    }
+    
+    #vhscore{
+      display:inline-block;
+        color:rgb(0, 255, 255);
+    } 
+    
+    #timer {
+        display:inline-block;
+        margin-right:73%;
+        color:red;
+    }
+    #restartQuiz{
+        display:inline-block;
+        color:rgb(0, 255, 255);
+    }
+    #fscore{
+        display:inline-block;
+        margin-right:73%;   
+    }
+    p {
+        text-align: center;
+        padding-top: 50px;
+      }
+    h2 {
+        text-align: center;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    h3{ 
+        padding-top: 10%;
+        text-align: center;
+    }
+    h5{
+     text-align: center;
+     padding-right: 10%; 
+    }
+    
+    #question {
+       
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 30px;
+        padding-top: 20px;
+        font-size: 25px;
+      
+    }
+    
+    #a,
+    #b,
+    #c,
+    #d {
+        border-radius: 4px;
+        background: rgb(201, 223, 241);
+        display: flex;
+        justify-content: center;
+        width: 40%;
+        align-items: center;
+        font-size: 18px;
+        margin: auto;
+        text-align: center;
+        position: relative;
+        flex-direction: column;
+       
+    }
+    
+    #answer {
+        display: flex;
+        justify-content: center;
+        padding-left: 100px;
+    }
+    
+    #startbtn {
+       height: 50px;
+       width: 75px;
+       display: block;
+       margin: auto;
+    }
+    
+    
+    
+    #Quiz {
+        display: flex;
+        display: none;
+        height: 100%;
+        width: 100%;
+    }
+    
+    #score {
+        display: flex;
+        font-size: large;
+    }
+    
+    button {
+       position: relative;
+       justify-content: center;
+       text-align: center;
+    }
+    
+    input {
+        margin-left: 20%;
+        display: inline-block;
+        align-items: center;
+        padding-left: 100px;
+        font-size: 17px;
+        width: 40%;
+    }
+    
+    #submit {
+        border-radius: 4px;
+        background: rgb(201, 223, 241);
+        display: flex;
+        justify-content: center;
+        width: 20%;
+        font-size: 20px;
+        margin-left: 10px;
+    }
+    #scoreSub{
+    display: flex;  
+    }
+    #myListDiv{
+     width: 50%;
+     margin-left:25%;   
+    background-color: rgb(252, 223, 189);  
+    }
+    
+    #finalscore{
+        color:lightgreen;
+        text-align: center;
+        margin-bottom:10%;
+        }
+    #highscore-name {
+        font-size: 15px;
+    }
+    
+    #highscore-score {
+        font-size: 15px;
+    }
+    

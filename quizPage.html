@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./asset/style.css"/>
+
+</head>
+<body>
+    <div  class="maindiv">
+    <h2> Pen Tuturial Quiz</h2>
+    <hr>
+
+    <div class="mainQuiz" >
+   
+        <div id="timer"> <h4> </h4>
+           
+        </div> 
+        <div id="vhscore"> 
+         <!-- <a onclick="getScores();"> <h4>  View highscores </h4> </a>  -->
+            <a href="scoreLists.html" > <h4>  View highscores </h4> </a>  
+          
+        </div>
+    
+       
+        <div id="question"><p>Questions</p>
+        </div>
+                    <button id="a" onclick="Answer('a')">A</button>
+                    <br>
+                    <button id="b" onclick="Answer('b')">B</button>
+                    <br>
+                    <button id="c" onclick="Answer('c')">C</button>
+                    <br>
+                    <button id="d" onclick="Answer('d')">D</button>
+                    <br>
+        <div id="checkAnswer" hidden>           
+                    <hr>            
+        <h5 id="answer" > </h5>
+         
+       </div>
+        
+</div>
+    <script src="script.js">
+    
+    </script>
+    <script>
+        startQuiz();
+     </script>
+
+</body>
+</html>
