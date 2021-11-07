@@ -10,5 +10,5 @@ This is a timed quiz, multiple-choice questions and interactive coding challenge
 ![screenShot4](./asset/images/ScreenShot0.png)
 ![screenShot5](./asset/images/screenshot1.png)
 ![screenShot6](./asset/images/screenshot2.png)
-![screenShot7](./asset/images/screen3hot3.png)
+![screenShot7](./asset/images/screenshot3.png)
 ![screenShot8](./asset/images/ScreenShot4.png)
